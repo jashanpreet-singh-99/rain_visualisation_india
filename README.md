@@ -1,6 +1,6 @@
 # rain_visualisation_india
 
-![map 1]("https://raw.githubusercontent.com/jashanpreet-singh-99/rain_visualisation_india/main/map_created/demo_1.png")
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/rain_visualisation_india/main/map_created/demo_2.png" />
 
 ## indian_map_image_clor
 
